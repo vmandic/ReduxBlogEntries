@@ -3,8 +3,8 @@ import React, { Component } from 'react';
 export default class App extends Component {
   render() {
     return (
-      <div>
-        React simple starter
+      <div className="app-container">
+        <h6>React Posts App</h6>
         { this.props.children }
       </div>
     );

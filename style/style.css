@@ -1,3 +1,11 @@
+div.app-container {
+  margin: 10px;
+}
+
+div.post-detail {
+  margin-top: 20px;
+}
+
 form a {
   margin-left: 5px;
 }
